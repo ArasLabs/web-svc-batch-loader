@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<WebLogLoaderService>
+	<server>http://{yourhostname}/Innovator800</server>
+	<database>{yourDBname</database>
+	<username>{logon user account}</username>
+	<password>{plain text password}</password>
+	<eventLoggingLevel>4</eventLoggingLevel>
+	<intervalMinutes>2</intervalMinutes>
+</WebLogLoaderService>

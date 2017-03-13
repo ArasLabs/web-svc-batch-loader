@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebLogLoaderService", "WebLogLoaderService.csproj", "{540BF291-580D-45AD-A8E0-AA7AEFAC0EE5}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{540BF291-580D-45AD-A8E0-AA7AEFAC0EE5}.Debug.ActiveCfg = Debug|.NET
+		{540BF291-580D-45AD-A8E0-AA7AEFAC0EE5}.Debug.Build.0 = Debug|.NET
+		{540BF291-580D-45AD-A8E0-AA7AEFAC0EE5}.Release.ActiveCfg = Release|.NET
+		{540BF291-580D-45AD-A8E0-AA7AEFAC0EE5}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

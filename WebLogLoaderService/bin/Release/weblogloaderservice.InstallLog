@@ -1,0 +1,269 @@
+﻿Installing assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Installing service WebLogLoaderService...
+Service WebLogLoaderService has been successfully installed.
+Creating EventLog source WebLogLoaderService in log Application...
+Committing assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Uninstalling assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Removing EventLog source WebLogLoaderService.
+Service WebLogLoaderService is being removed from the system...
+Service WebLogLoaderService was successfully removed from the system.
+Installing assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Installing service WebLogLoaderService...
+Creating EventLog source WebLogLoaderService in log Application...
+Rolling back assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Restoring event log to previous state for source WebLogLoaderService.
+Uninstalling assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Removing EventLog source WebLogLoaderService.
+Warning: The source WebLogLoaderService is not registered on the local machine.
+Service WebLogLoaderService is being removed from the system...
+Service WebLogLoaderService was successfully removed from the system.
+Installing assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Installing service WebLogLoaderService...
+Service WebLogLoaderService has been successfully installed.
+Creating EventLog source WebLogLoaderService in log Application...
+Committing assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Uninstalling assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Removing EventLog source WebLogLoaderService.
+Service WebLogLoaderService is being removed from the system...
+Service WebLogLoaderService was successfully removed from the system.
+Installing assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Installing service WebLogLoaderService...
+Service WebLogLoaderService has been successfully installed.
+Creating EventLog source WebLogLoaderService in log Application...
+Committing assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Uninstalling assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Removing EventLog source WebLogLoaderService.
+Service WebLogLoaderService is being removed from the system...
+Service WebLogLoaderService was successfully removed from the system.
+Installing assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Installing service WebLogLoaderService...
+Service WebLogLoaderService has been successfully installed.
+Creating EventLog source WebLogLoaderService in log Application...
+Committing assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Uninstalling assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Removing EventLog source WebLogLoaderService.
+Service WebLogLoaderService is being removed from the system...
+Service WebLogLoaderService was successfully removed from the system.
+Installing assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Installing service WebLogLoaderService...
+Service WebLogLoaderService has been successfully installed.
+Creating EventLog source WebLogLoaderService in log Application...
+Committing assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Installing assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Installing service WebLogLoaderService...
+Creating EventLog source WebLogLoaderService in log Application...
+Rolling back assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Restoring event log to previous state for source WebLogLoaderService.
+Installing assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Installing service WebLogLoaderService...
+Creating EventLog source WebLogLoaderService in log Application...
+Rolling back assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Restoring event log to previous state for source WebLogLoaderService.
+Installing assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Installing service WebLogLoaderService...
+Creating EventLog source WebLogLoaderService in log Application...
+Rolling back assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Restoring event log to previous state for source WebLogLoaderService.
+Uninstalling assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Removing EventLog source WebLogLoaderService.
+Service WebLogLoaderService is being removed from the system...
+Service WebLogLoaderService was successfully removed from the system.
+Installing assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Installing service WebLogLoaderService...
+Service WebLogLoaderService has been successfully installed.
+Creating EventLog source WebLogLoaderService in log Application...
+Committing assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Installing assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Installing service WebLogLoaderService...
+Creating EventLog source WebLogLoaderService in log Application...
+Rolling back assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Restoring event log to previous state for source WebLogLoaderService.
+Installing assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Installing service WebLogLoaderService...
+Creating EventLog source WebLogLoaderService in log Application...
+Rolling back assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Restoring event log to previous state for source WebLogLoaderService.
+Installing assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Installing service WebLogLoaderService...
+Creating EventLog source WebLogLoaderService in log Application...
+Rolling back assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Restoring event log to previous state for source WebLogLoaderService.
+Installing assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Installing service WebLogLoaderService...
+Creating EventLog source WebLogLoaderService in log Application...
+Rolling back assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Restoring event log to previous state for source WebLogLoaderService.
+Installing assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Installing service WebLogLoaderService...
+Creating EventLog source WebLogLoaderService in log Application...
+Rolling back assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Restoring event log to previous state for source WebLogLoaderService.
+Installing assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Installing service WebLogLoaderService...
+Creating EventLog source WebLogLoaderService in log Application...
+Rolling back assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Restoring event log to previous state for source WebLogLoaderService.
+Uninstalling assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Removing EventLog source WebLogLoaderService.
+Attempt to stop service WebLogLoaderService.
+Service WebLogLoaderService is being removed from the system...
+Service WebLogLoaderService was successfully removed from the system.
+Uninstalling assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Removing EventLog source WebLogLoaderService.
+Warning: The source WebLogLoaderService is not registered on the local machine.
+Attempt to stop service WebLogLoaderService.
+Service WebLogLoaderService is being removed from the system...
+Service WebLogLoaderService was successfully removed from the system.
+Installing assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Installing service WebLogLoaderService...
+Service WebLogLoaderService has been successfully installed.
+Creating EventLog source WebLogLoaderService in log Application...
+Committing assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Installing assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Installing service WebLogLoaderService...
+Creating EventLog source WebLogLoaderService in log Application...
+Rolling back assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Restoring event log to previous state for source WebLogLoaderService.
+Installing assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Installing service WebLogLoaderService...
+Creating EventLog source WebLogLoaderService in log Application...
+Rolling back assembly 'c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe'.
+Affected parameters are:
+   assemblypath = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.exe
+   logfile = c:\innovator\weblogloaderservice\bin\release\weblogloaderservice.InstallLog
+Restoring event log to previous state for source WebLogLoaderService.
